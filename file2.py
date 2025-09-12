@@ -5,4 +5,4 @@ def add_numbers(a, b):
 
 def multiply_numbers(a, b):
     """Multiplies two numbers"""
-    return a * b
+    return a * b + 10
