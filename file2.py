@@ -10,3 +10,7 @@ def multiply_numbers(a, b):
 
 def another_function():
     print("another function")
+
+
+def another_function2():
+    print("another function 2")
