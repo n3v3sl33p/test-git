@@ -1,5 +1,6 @@
 def hello_world():
-    """Prints 'Hello world!'."""
+    """Prints 'Hello wozxczzxczxcrld!'."""
+    print("Hello WORLD!")
     print("Hello world!zxczxc")
 
 
