@@ -1,0 +1,102 @@
+[33mcommit f47f8978d8347107171b04a2e5a960038bfb9edd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature2[m[33m)[m
+Author: Artem <yatsunenkoaa@fsk.ru>
+Date:   Fri Sep 19 18:30:54 2025 +0300
+
+    another commit
+
+[33mcommit b9095129520c663ca1a1faf2e2838a683ac7f7fa[m
+Author: Artem <yatsunenkoaa@fsk.ru>
+Date:   Fri Sep 19 18:30:34 2025 +0300
+
+    fix feature
+
+[33mcommit 71534d535a4d9189fc267d785ed1bd133b52242e[m
+Author: Artem <yatsunenkoaa@fsk.ru>
+Date:   Fri Sep 19 18:30:20 2025 +0300
+
+    feature
+
+[33mcommit 86fa8e448ca88b44a17bb527372c4f530ecbe190[m
+Author: Artem <yatsunenkoaa@fsk.ru>
+Date:   Fri Sep 12 16:58:00 2025 +0300
+
+    test 4
+
+[33mcommit 0b48113a1ea17a36bd080d72ca68dff66822c0b0[m
+Author: Artem <yatsunenkoaa@fsk.ru>
+Date:   Fri Sep 12 16:56:02 2025 +0300
+
+    test 3
+
+[33mcommit 4ae7d80ef198210a1990c518db9ca555c0e02c2f[m
+Author: Artem <yatsunenkoaa@fsk.ru>
+Date:   Fri Sep 12 16:54:11 2025 +0300
+
+    add tests
+
+[33mcommit 50ca5526bcba013100fe7484f6fdae4cfa232d40[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Author: Artem <yatsunenkoaa@fsk.ru>
+Date:   Fri Sep 12 16:58:35 2025 +0300
+
+    change dev
+
+[33mcommit 90bd51a334d3e239528c52e7883e08115121909e[m
+Author: Artem <yatsunenkoaa@fsk.ru>
+Date:   Fri Sep 12 16:54:56 2025 +0300
+
+    change dev
+
+[33mcommit eb4da315ebb1e552cf9c62cd1eef5cab8c3c96fa[m
+Author: Artem <yatsunenkoaa@fsk.ru>
+Date:   Fri Sep 12 16:18:41 2025 +0300
+
+    dev changes
+
+[33mcommit 4f6a86304751a6d6d0baa11943664b13704794eb[m
+Merge: e463a5c b0067df
+Author: Artem <yatsunenkoaa@fsk.ru>
+Date:   Fri Sep 12 16:17:10 2025 +0300
+
+    resolve conflict
+
+[33mcommit e463a5cc970c24338e7d96569930508e65d64f23[m[33m ([m[1;31morigin/feature1[m[33m, [m[1;32mfeature1[m[33m)[m
+Author: Artem <yatsunenkoaa@fsk.ru>
+Date:   Fri Sep 12 16:14:42 2025 +0300
+
+    feature1 realise
+
+[33mcommit b0067df4194528098ec99bf4fc6d2cba40283e72[m
+Author: Artem <yatsunenkoaa@fsk.ru>
+Date:   Fri Sep 12 16:13:52 2025 +0300
+
+    feature2 realise
+
+[33mcommit 0da6a936f5213f8c3aa9acae0afaf5ad5e1f5380[m
+Author: Artem <yatsunenkoaa@fsk.ru>
+Date:   Fri Sep 12 16:13:12 2025 +0300
+
+    feature1 realise
+
+[33mcommit 088bc987f83cac11c48813e7893bac6bf1afedf2[m[33m ([m[1;31morigin/feature[m[33m)[m
+Author: Artem <yatsunenkoaa@fsk.ru>
+Date:   Fri Sep 12 16:10:45 2025 +0300
+
+    feature realise
+
+[33mcommit 646ada6cdd4c8e740d4705fc7997ccecefdde719[m
+Author: Artem <yatsunenkoaa@fsk.ru>
+Date:   Sat Sep 6 09:12:12 2025 +0300
+
+    commit into dev 2
+
+[33mcommit 83775ca01f856b658bc388089009950b7729af1b[m
+Author: Artem <yatsunenkoaa@fsk.ru>
+Date:   Sat Sep 6 09:07:13 2025 +0300
+
+    Second commit into dev
+
+[33mcommit 6b598db277e34374a4114eff3e8b54dc0b478630[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Artem <yatsunenkoaa@fsk.ru>
+Date:   Sat Sep 6 09:03:57 2025 +0300
+
+    First commit
